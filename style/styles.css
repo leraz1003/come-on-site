@@ -1,0 +1,110 @@
+@import url(./reset.css);
+
+body {
+  font-family: "Inter", "Roboto", sans-serif;
+  line-height: 1.6;
+  color: #000000;
+  background-color: #f4f4f4;
+}
+
+/* Стилі для контейнера */
+.container {
+  max-width: 1080px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+svg {
+  width: 50px;
+  height: 50px;
+}
+.main-page {
+  background: linear-gradient(
+    180deg,
+    rgba(194, 208, 118, 0.86) 0%,
+    rgba(255, 255, 255, 0.86) 100%
+  );
+}
+/* ----------header--------- */
+.header {
+}
+.header__section {
+}
+.header__address {
+}
+.header__login {
+}
+.header__language {
+}
+.header__language-icon {
+}
+.header__nav {
+}
+.header__nav-list {
+}
+.header__nav-item {
+}
+
+/* ------main page ---------- */
+.main-page {
+}
+.main-page__container {
+}
+
+.main-page__text {
+}
+.main-page__image {
+}
+.main-page__button {
+}
+
+/* benefit */
+.benefits {
+}
+.benefits__container {
+}
+.benefits__title {
+}
+.benefits__list {
+}
+.benefits__item {
+}
+.benefits__icon {
+}
+.benefits__item-title {
+}
+.benefits__item-text {
+}
+
+/* ---------signup-------- */
+.signup {
+}
+.signup__container {
+}
+.signup__title {
+}
+.signup__text {
+}
+.signup__input {
+}
+
+/* ------footer----------- */
+.footer {
+}
+.footer__container {
+}
+.footer__address {
+}
+.footer__button {
+}
+.footer__payment {
+}
+.footer__icon {
+}
+.footer__social {
+}
+.footer__links {
+}
+.footer__link {
+}
+.footer__payment-icons {
+}
